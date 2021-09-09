@@ -1,2 +1,2 @@
 # kixer
-This tool helps to create all possible passwords of any digit
+This tool helps to generate all possible passwords of any digit
