@@ -85,4 +85,4 @@ if dex == 10:
 								for s in a:
 									for r in a:
 										print(z,y,x,w,v,u,t,s,r,q, sep="", file=open(xed, "a"))
-print('password generated successfully')																																		
+print('password generated successfully as', xed)																																		
