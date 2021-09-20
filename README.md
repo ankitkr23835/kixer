@@ -1,6 +1,6 @@
 # kixer:
 This tool helps to generate all possible passwords of any digit
-# Installation in Termux:
+# Installation in Termux :
 ```
 apt-get update
 
@@ -8,20 +8,26 @@ apt-get upgrade
 
 pkg install git
 
+pkg install python
+
+pkg install python2
+
 git clone https://github.com/ankitkr23835/kixer
 
 cd kixer
 ```
 
-# Usage:
+# Run the tool by :
 ```
 python kixer.py
 ```
-or
+Or
 ```
 python2 kixer.py
 ```
-###Enter the name of the file (.txt) in which you want your passwords to be stored###
+# Usage :
+* Enter the name of the file (.txt) in which you want your passwords to be stored
+* Enter the digit of the password to be created
 
 
 
@@ -30,4 +36,5 @@ python2 kixer.py
 
 
 
-# This tool is only for educational purposes only!!!
+ # Warning :
+This tool is for educational purposes only!!!
